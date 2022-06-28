@@ -1,1 +1,3 @@
 # Code Refactor Starter Code
+Refactoring:
+    I started off with changing many of the "div" tags to tags such as nav elements to make it semantic. I did the same using elements like "footer" and "header". Took out useless code in the CSS file that didnt do anything. I fixed the element "hero" so the image in coming from the HTML code, using an alt tag making it easy to access. In doing so, I have the images alt tags with brief descriptions.
